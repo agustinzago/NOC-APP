@@ -1,0 +1,31 @@
+{
+  "name": "05-noc-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsnd --respawn --clear src/app.ts",
+    "build": "rimraf ./dist && tsc",
+    "start": "npm run build && node dist/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.11.28",
+    "@types/nodemailer": "^6.4.14",
+    "prisma": "^5.11.0",
+    "rimraf": "^5.0.5",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.11.0",
+    "cron": "^3.1.6",
+    "dotenv": "^16.4.5",
+    "env-var": "^7.4.1",
+    "mongoose": "^8.2.2",
+    "nodemailer": "^6.9.12"
+  }
+}

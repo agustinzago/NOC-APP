@@ -1,0 +1,40 @@
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:50:21.000Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:50:26.125Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:50:30.169Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:50:35.335Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:50:40.472Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:50:45.693Z"}
+{"message":"Service http://google.com working","level":"low","createdAt":"2024-03-18T02:50:50.577Z"}
+{"message":"Service http://google.com working","level":"low","createdAt":"2024-03-18T02:50:55.145Z"}
+{"message":"Service http://google.com working","level":"low","createdAt":"2024-03-18T02:51:00.217Z"}
+{"message":"Service http://google.com working","level":"low","createdAt":"2024-03-18T02:51:05.259Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:51:10.363Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:51:15.461Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:51:20.352Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:51:25.219Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:51:35.046Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:51:40.008Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:51:45.010Z"}
+{"message":"TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:51:50.003Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T02:52:45.363Z"}
+{"message":"https://godsadsadsadsaadogle.com is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:52:50.265Z"}
+{"message":"https://godsadsadsadsaadogle.com is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:52:55.005Z"}
+{"message":"https://godsadsadsadsaadogle.com is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:53:00.005Z"}
+{"message":"https://godsadsadsadsaadogle.com is not ok. TypeError: fetch failed","level":"high","createdAt":"2024-03-18T02:53:05.004Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T12:47:15.444Z"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-18T12:47:20.154Z"}
+{"message":"Email sent","level":"low","createdAt":"2024-03-19T00:27:22.101Z","origin":"email.service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:44:31.013Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:44:35.820Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:44:40.775Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:44:45.855Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:44:50.773Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:44:55.762Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:00.775Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:05.826Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:10.845Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:15.758Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:20.774Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:25.791Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:31.062Z","origin":"check-service.ts"}
+{"message":"Service https://google.com working","level":"low","createdAt":"2024-03-20T20:45:35.781Z","origin":"check-service.ts"}
